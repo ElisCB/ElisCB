@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisCB&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)![](https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)
 </br>
-![](https://github-readme-stats.vercel.app/api?username=ElisCB&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=ElisCB&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ElisCB&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=ElisCB&theme=onedark&hide_border=true)
 </br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ElisCB&theme=onedark&no-frame=true&no-bg=true&margin-w=10)
