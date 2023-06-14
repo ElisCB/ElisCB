@@ -1,5 +1,6 @@
 # 💫 About Me:
 👩‍💻 Olá! Eu sou a Elisângela Brito !<br><br>📱 Desenvolvedora Front End | Javascript | HTML | CSS | Typescript | Reactjs<br><br>🌱 Hoje estou cursando Back End na Kenzie Academy Brasil
+<script src="https://gist.github.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956.js"></script>
 
 
 ## 🌐 Socials:
