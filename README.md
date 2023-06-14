@@ -14,7 +14,7 @@
 <img align="left"  width="47%" src= "https://github-readme-stats.vercel.app/api?username=ElisCB&theme=onedark&hide_border=true&include_all_commits=false&count_private=true"/><img src ="https://github-readme-streak-stats.herokuapp.com/?user=ElisCB&theme=onedark&hide_border=true"/>
 </br>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ElisCB&theme=onedark&no-frame=true&no-bg=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=ElisCB&theme=onedark&no-frame=true&no-bg=true&margin-w=1)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ElisCB&limit=5&theme=onedark&combine_all_yearly_contributions=true)
