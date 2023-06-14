@@ -16,10 +16,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ElisCB&theme=onedark&no-frame=true&no-bg=true&margin-w=1)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ElisCB&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=ElisCB&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
