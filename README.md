@@ -1,11 +1,11 @@
 
-<div>
+
   💫 About Me:
 👩‍💻 Olá! Eu sou a Elisângela Brito !<br><br>📱 Desenvolvedora Front End | Javascript | HTML | CSS | Typescript | Reactjs<br><br>🌱 Hoje estou cursando Back End na Kenzie Academy Brasil</br>
   </div>
   <aside>
   ![](https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)
-  </aside>
+
 
 
 ## 🌐 Socials:
